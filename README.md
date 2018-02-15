@@ -1,7 +1,7 @@
-#About this repository
+# About this repository
 
-#Best practices
+# Best practices
 
-#Image Gallery
+# Image Gallery
 
-#Async API Data
+# Async API Data
